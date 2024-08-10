@@ -1,6 +1,6 @@
 # Some Bot
 
-This is a simple HTML page that embeds a chatbot using the ChatGPT Builder plugin.
+This is a simple HTML page that embeds a chatbot .
 
 ## Structure
 
@@ -21,7 +21,7 @@ The HTML file is structured as follows:
 
 ### Embedding the Chatbot
 
-The chatbot is embedded using the ChatGPT Builder plugin. Below is a breakdown of the configuration:
+The chatbot is embedded using the  Builder plugin. Below is a breakdown of the configuration:
 
 - **Script Source**: The script is sourced from `https://app.chatgptbuilder.io/webchat/plugin.js`.
 - **Configuration**: 
